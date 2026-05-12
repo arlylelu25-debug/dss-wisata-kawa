@@ -5,19 +5,19 @@
 
 ## DSS Wisata Kampung Adat Kawa Desa Labolewa Menggunakan Algoritma Dijkstra
 
----
+
 
 # Disusun Oleh
 
-Nama : Maria indriani lelu..........................................
+Nama : Maria indriani lelu
 
-NIM : 2501010335..........................................
+NIM : 2501010335
 
-Kelas/Prodi : D/teknik informatika..........................................
+Kelas/Prodi : D/teknik informatika
 
 Mata Kuliah : Struktur Data
 
----
+
 
 # BAB 1
 
@@ -35,7 +35,7 @@ Permasalahan tersebut dapat dimodelkan menggunakan struktur data graph karena gr
 
 Pada project ini digunakan algoritma Dijkstra untuk mencari jalur terpendek berdasarkan bobot jarak sehingga dapat membantu pengguna menentukan rute wisata terbaik.
 
----
+
 
 ## 1.2 Rumusan Masalah
 
@@ -44,7 +44,7 @@ Pada project ini digunakan algoritma Dijkstra untuk mencari jalur terpendek berd
 3. Bagaimana implementasi algoritma Dijkstra pada DSS?
 4. Bagaimana visualisasi graph membantu pengambilan keputusan?
 
----
+
 
 ## 1.3 Tujuan
 
@@ -54,7 +54,7 @@ Pada project ini digunakan algoritma Dijkstra untuk mencari jalur terpendek berd
 4. Membantu pengguna menentukan jalur wisata tercepat.
 5. Menampilkan visualisasi graph secara interaktif.
 
----
+
 
 ## 1.4 Manfaat
 
@@ -63,7 +63,7 @@ Pada project ini digunakan algoritma Dijkstra untuk mencari jalur terpendek berd
 3. Menjadi media pembelajaran implementasi graph.
 4. Menunjukkan penerapan nyata algoritma graph.
 
----
+
 
 # BAB 2
 
@@ -93,7 +93,7 @@ Graph yang hubungan antar node dapat dilalui dua arah.
 
 Representasi graph menggunakan daftar tetangga setiap node.
 
----
+
 
 ## 2.2 Decision Support System (DSS)
 
@@ -101,7 +101,7 @@ Decision Support System merupakan sistem yang digunakan untuk membantu proses pe
 
 Pada project ini DSS digunakan untuk membantu pengguna menentukan rute wisata terbaik berdasarkan jarak tempuh.
 
----
+
 
 ## 2.3 Algoritma Dijkstra
 
