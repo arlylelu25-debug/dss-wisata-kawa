@@ -16,7 +16,7 @@ Ni putu indahning sasmita_25010104
 
 Kelas/Prodi : D/teknik informatika
 
-Mata Kuliah : Struktur Data
+Mata Kuliah : projek UAS Struktur Data
 
 
 
