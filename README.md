@@ -9,9 +9,9 @@
 
 # Disusun Oleh
 
-Nama : Maria indriani lelu
+Nama : Maria indriani lelu_2501010335
+       Ni putu indahning sasmita_25010104
 
-NIM : 2501010335
 
 Kelas/Prodi : D/teknik informatika
 
